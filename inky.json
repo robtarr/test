@@ -1,0 +1,8 @@
+{
+  "domains": {
+    "dev": "github.com",
+    "prod": "github.com"
+  },
+  "resolutions": ["480x320", "1400x1024"],
+  "outputFolder": "shots"
+}
