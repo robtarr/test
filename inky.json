@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npm run inky"
+  },
   "domains": {
     "dev": "github.com",
     "prod": "github.com"
