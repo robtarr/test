@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build": "npm run inky"
+  },
   "domains": {
     "dev": "http://blog.robtarr.net/https-all-the-things/",
     "prod": "http://blog.robtarr.net/simplify-your-atom-config/"
