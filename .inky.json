@@ -1,0 +1,13 @@
+{
+  "domains": {
+    "dev": "http://blog.robtarr.net/https-all-the-things/",
+    "prod": "http://blog.robtarr.net/simplify-your-atom-config/",
+  },
+  "resolutions": ["480x320", "1400x1024"],
+  "integrations": {
+    "Slack": {
+      "$token": "$SLACK_TOKEN",
+      "channel": "sbotting",
+    },
+  },
+}
