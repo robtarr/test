@@ -1,0 +1,15 @@
+---
+  browser:
+    phantomjs: "phantomjs"
+  snap_file: "wraith/wraith.js"
+  directory: "wraith/shots"
+  screen_widths:
+    - "300x480"
+  paths:
+    "dev": "/https-all-the-things/",
+    "prod": "/simplify-your-atom-config/"
+  fuzz: "20%"
+  spider_days:
+    - 10
+  mode: "diffs_first"
+  threshold: 10
