@@ -1,6 +1,8 @@
 ---
   browser:
     phantomjs: "phantomjs"
+  domains:
+    baseline: "https://robtarr.net
   snap_file: "wraith/wraith.js"
   directory: "wraith/shots"
   screen_widths:
