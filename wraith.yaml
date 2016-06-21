@@ -6,7 +6,7 @@
   screen_widths:
     - "300x480"
   paths:
-    "dev": "/https-all-the-things/",
+    "dev": "/https-all-the-things/"
     "prod": "/simplify-your-atom-config/"
   fuzz: "20%"
   spider_days:
