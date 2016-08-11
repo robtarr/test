@@ -8,7 +8,6 @@
   screen_widths:
     - "300x480"
   paths:
-    "home": "/"
     "team": "/team"
     "work": "/work"
     "foundry": "/foundry"
