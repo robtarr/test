@@ -2,14 +2,17 @@
   browser:
     phantomjs: "phantomjs"
   domains:
-    baseline: "https://robtarr.net"
+    baseline: "https://seesparkbox.com"
   snap_file: "wraith.js"
   directory: "shots"
   screen_widths:
     - "300x480"
   paths:
-    "dev": "/https-all-the-things/"
-    "prod": "/simplify-your-atom-config/"
+    "home": "/"
+    "team": "/team"
+    "work": "/work"
+    "foundry": "/foundry"
+    "labs": "/labs"
   fuzz: "20%"
   spider_days:
     - 10
